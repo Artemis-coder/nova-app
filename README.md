@@ -2,8 +2,8 @@
 
 Téléchargements officiels de l'application NOVA (Android et iPhone).
 
-- Site : https://nova-oraimo.vercel.app
-- Application web : https://nova-oraimo.vercel.app/app/
+- Site et téléchargements : https://nova-oraimo-app.vercel.app
+- Application web : https://nova-oraimo.vercel.app
 
 ## Installer
 **Android** : téléchargez `NOVA-x.y.z-android.apk` dans la dernière version (Releases), ouvrez-le et autorisez l'installation depuis cette source.
